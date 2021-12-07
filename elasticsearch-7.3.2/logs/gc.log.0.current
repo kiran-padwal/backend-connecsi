@@ -2041,3 +2041,17 @@ Desired survivor size 17432576 bytes, new threshold 6 (max 6)
 - age   4:        720 bytes,      11264 total
 - age   5:        128 bytes,      11392 total
 : 272657K->18K(306688K), 0.0492006 secs] 346685K->74045K(1014528K), 0.0494353 secs] [Times: user=0.08 sys=0.00, real=0.05 secs] 
+2021-12-06T22:12:31.758+0000: 2085543.349: Total time for which application threads were stopped: 0.1759996 seconds, Stopping threads took: 0.0001245 seconds
+2021-12-07T04:07:48.350+0000: 2106859.943: [GC (Allocation Failure) 2021-12-07T04:07:48.350+0000: 2106859.944: [ParNew
+Desired survivor size 17432576 bytes, new threshold 6 (max 6)
+- age   1:       9176 bytes,       9176 total
+- age   5:        584 bytes,       9760 total
+- age   6:        128 bytes,       9888 total
+: 272658K->17K(306688K), 0.0390618 secs] 346685K->74045K(1014528K), 0.0393644 secs] [Times: user=0.05 sys=0.01, real=0.04 secs] 
+2021-12-07T04:07:48.389+0000: 2106859.983: Total time for which application threads were stopped: 0.0400703 seconds, Stopping threads took: 0.0001218 seconds
+2021-12-07T10:03:15.754+0000: 2128187.348: [GC (Allocation Failure) 2021-12-07T10:03:15.754+0000: 2128187.348: [ParNew
+Desired survivor size 17432576 bytes, new threshold 6 (max 6)
+- age   1:      11648 bytes,      11648 total
+- age   2:        136 bytes,      11784 total
+- age   6:        584 bytes,      12368 total
+: 272657K->16K(306688K), 0.0221334 secs] 346685K->74044K(1014528K), 0.0223458 secs] [Times: user=0.11 sys=0.00, real=0.02 secs] 
