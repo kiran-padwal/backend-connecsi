@@ -1,3 +1,4 @@
+from werkzeug.utils import cached_property
 from flask import Flask,Blueprint
 from flask_cors import CORS
 from flask_restplus import Api

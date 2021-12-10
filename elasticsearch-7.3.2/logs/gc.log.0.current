@@ -2061,3 +2061,39 @@ Desired survivor size 17432576 bytes, new threshold 6 (max 6)
 - age   1:       9104 bytes,       9104 total
 - age   3:        136 bytes,       9240 total
 : 272656K->15K(306688K), 0.0745046 secs] 346684K->74043K(1014528K), 0.0747215 secs] [Times: user=0.08 sys=0.00, real=0.08 secs] 
+2021-12-07T16:01:33.604+0000: 2149685.199: Total time for which application threads were stopped: 0.0752467 seconds, Stopping threads took: 0.0000852 seconds
+2021-12-07T22:02:56.162+0000: 2171367.759: [GC (Allocation Failure) 2021-12-07T22:02:56.162+0000: 2171367.759: [ParNew
+Desired survivor size 17432576 bytes, new threshold 6 (max 6)
+- age   1:       9088 bytes,       9088 total
+- age   4:        136 bytes,       9224 total
+: 272655K->14K(306688K), 0.1251497 secs] 346683K->74042K(1014528K), 0.1253621 secs] [Times: user=0.00 sys=0.00, real=0.13 secs] 
+2021-12-07T22:02:56.287+0000: 2171367.884: Total time for which application threads were stopped: 0.1262331 seconds, Stopping threads took: 0.0001615 seconds
+2021-12-08T03:36:00.200+0000: 2191351.797: Total time for which application threads were stopped: 0.5692297 seconds, Stopping threads took: 0.3552942 seconds
+2021-12-08T03:36:01.201+0000: 2191352.797: Total time for which application threads were stopped: 0.0003744 seconds, Stopping threads took: 0.0000629 seconds
+2021-12-08T03:36:27.304+0000: 2191378.900: Total time for which application threads were stopped: 0.0808569 seconds, Stopping threads took: 0.0804102 seconds
+2021-12-08T03:58:47.930+0000: 2192719.537: [GC (Allocation Failure) 2021-12-08T03:58:47.930+0000: 2192719.537: [ParNew
+Desired survivor size 17432576 bytes, new threshold 6 (max 6)
+- age   1:      11728 bytes,      11728 total
+: 272654K->18K(306688K), 6.7437518 secs] 346682K->74047K(1014528K), 6.7439664 secs] [Times: user=1.13 sys=0.08, real=6.75 secs] 
+2021-12-08T03:58:54.683+0000: 2192726.281: Total time for which application threads were stopped: 6.9419785 seconds, Stopping threads took: 0.0001437 seconds
+2021-12-08T03:58:56.707+0000: 2192728.306: Total time for which application threads were stopped: 0.0187085 seconds, Stopping threads took: 0.0003597 seconds
+2021-12-08T03:59:00.536+0000: 2192732.142: Total time for which application threads were stopped: 0.0141019 seconds, Stopping threads took: 0.0136721 seconds
+2021-12-08T09:52:17.201+0000: 2213928.797: [GC (Allocation Failure) 2021-12-08T09:52:17.201+0000: 2213928.797: [ParNew
+Desired survivor size 17432576 bytes, new threshold 6 (max 6)
+- age   1:      13968 bytes,      13968 total
+- age   2:        136 bytes,      14104 total
+: 272658K->20K(306688K), 0.0594683 secs] 346687K->74048K(1014528K), 0.0596740 secs] [Times: user=0.13 sys=0.00, real=0.06 secs] 
+2021-12-08T09:52:17.260+0000: 2213928.856: Total time for which application threads were stopped: 0.0604304 seconds, Stopping threads took: 0.0001392 seconds
+2021-12-08T15:46:49.406+0000: 2235201.002: [GC (Allocation Failure) 2021-12-08T15:46:49.406+0000: 2235201.002: [ParNew
+Desired survivor size 17432576 bytes, new threshold 6 (max 6)
+- age   1:      10688 bytes,      10688 total
+- age   2:        360 bytes,      11048 total
+- age   3:        136 bytes,      11184 total
+: 272660K->18K(306688K), 0.0108398 secs] 346688K->74046K(1014528K), 0.0110165 secs] [Times: user=0.06 sys=0.00, real=0.01 secs] 
+2021-12-08T15:46:49.417+0000: 2235201.013: Total time for which application threads were stopped: 0.0117818 seconds, Stopping threads took: 0.0001415 seconds
+2021-12-09T19:40:24.181+0000: 2335615.779: Total time for which application threads were stopped: 0.0204247 seconds, Stopping threads took: 0.0003954 seconds
+2021-12-09T20:28:34.122+0000: 2338505.720: [GC (Allocation Failure) 2021-12-09T20:28:34.146+0000: 2338505.744: [ParNew
+Desired survivor size 17432576 bytes, new threshold 6 (max 6)
+- age   1:       9656 bytes,       9656 total
+- age   3:        360 bytes,      10016 total
+: 272658K->14K(306688K), 0.1306903 secs] 346686K->74042K(1014528K), 0.1544797 secs] [Times: user=0.06 sys=0.00, real=0.15 secs] 
